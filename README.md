@@ -1,3 +1,3 @@
 # Number-game---GUI
-NUMBER GAME
-play with friend or with the computer
+
+play with a friend or with the computer
